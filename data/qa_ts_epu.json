@@ -1,0 +1,104 @@
+{
+  "title": "Hỏi Đáp Tuyển Sinh Chuyên Ngành Công Nghệ Thông Tin - Đại học Điện Lực",
+  "institution": "Đại học Điện Lực (EPU)",
+  "program": "Công nghệ Thông tin",
+  "last_updated": "28/04/2025",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Admissions Process",
+      "question": "Các phương thức xét tuyển vào ngành Công nghệ Thông tin tại Đại học Điện Lực năm 2025 là gì?",
+      "answer": "Năm 2025, EPU xét tuyển ngành CNTT qua: (1) Kết quả kỳ thi tốt nghiệp THPT với các tổ hợp A00, A01, D01, D07; (2) Chứng chỉ tiếng Anh quốc tế kết hợp điểm 2 môn thi THPT; (3) Xét tuyển thẳng theo quy định của Bộ GD&ĐT; (4) Kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM hoặc các đơn vị uy tín tổ chức."
+    },
+    {
+      "id": 2,
+      "category": "Admissions Process",
+      "question": "Điểm chuẩn ngành Công nghệ Thông tin tại EPU năm 2024 là bao nhiêu?",
+      "answer": "Điểm chuẩn ngành CNTT năm 2024 tại EPU dao động từ 22 đến 24 điểm tùy tổ hợp xét tuyển (A00, A01, D01, D07). Điểm chuẩn 2025 sẽ được công bố sau kỳ thi THPT."
+    },
+    {
+      "id": 3,
+      "category": "Admissions Process",
+      "question": "Thí sinh có chứng chỉ IELTS có được ưu tiên khi xét tuyển không?",
+      "answer": "Có, thí sinh có chứng chỉ IELTS từ 5.0 trở lên hoặc TOEFL tương đương có thể sử dụng để xét tuyển theo phương thức kết hợp chứng chỉ tiếng Anh quốc tế và điểm 2 môn thi THPT."
+    },
+    {
+      "id": 4,
+      "category": "Admissions Process",
+      "question": "Thời gian nộp hồ sơ xét tuyển vào EPU là khi nào?",
+      "answer": "Thời gian nộp hồ sơ theo lịch tuyển sinh chung của Bộ GD&ĐT, thường bắt đầu từ tháng 7 và kết thúc vào tháng 8. Thí sinh cần theo dõi thông báo chính thức trên website epu.edu.vn."
+    },
+    {
+      "id": 5,
+      "category": "Program Details",
+      "question": "Ngành Công nghệ Thông tin tại EPU có những chuyên ngành nào?",
+      "answer": "Ngành CNTT tại EPU có 4 chuyên ngành: Công nghệ phần mềm, Hệ thống thương mại điện tử, Quản trị an ninh mạng, và Trí tuệ nhân tạo và thị giác máy tính."
+    },
+    {
+      "id": 6,
+      "category": "Program Details",
+      "question": "Chương trình học Công nghệ phần mềm tại EPU tập trung vào những gì?",
+      "answer": "Chương trình Công nghệ phần mềm tập trung vào thuật toán, phân tích và thiết kế hệ thống thông tin, quản trị dự án CNTT, và phát triển phần mềm trên các nền tảng công nghệ hiện đại."
+    },
+    {
+      "id": 7,
+      "category": "Program Details",
+      "question": "Sinh viên học ngành CNTT có được thực hành nhiều không?",
+      "answer": "Có, sinh viên được thực hành tại các phòng thí nghiệm CNTT hiện đại và tham gia các dự án thực tế, đảm bảo kỹ năng thực tiễn trước khi ra trường."
+    },
+    {
+      "id": 8,
+      "category": "Program Details",
+      "question": "Ngành CNTT tại EPU có yêu cầu ngoại ngữ không?",
+      "answer": "Ngoại ngữ, đặc biệt là tiếng Anh, rất quan trọng. Sinh viên cần đạt trình độ tiếng Anh tốt để tiếp cận tài liệu quốc tế và làm việc trong môi trường toàn cầu."
+    },
+    {
+      "id": 9,
+      "category": "Career Prospects",
+      "question": "Cơ hội việc làm sau khi tốt nghiệp ngành CNTT tại EPU như thế nào?",
+      "answer": "Hơn 95% sinh viên CNTT tại EPU có việc làm đúng chuyên ngành sau khi ra trường, với các vị trí như lập trình viên, chuyên gia an ninh mạng, hoặc nhà phát triển AI tại các công ty như FPT, Viettel, VinAI."
+    },
+    {
+      "id": 10,
+      "category": "Career Prospects",
+      "question": "Mức lương trung bình của sinh viên CNTT mới ra trường là bao nhiêu?",
+      "answer": "Mức lương khởi điểm cho sinh viên CNTT tại Việt Nam dao động từ 10-20 triệu VNĐ/tháng, tùy vào vị trí và năng lực, có thể cao hơn ở các công ty quốc tế."
+    },
+    {
+      "id": 11,
+      "category": "Career Prospects",
+      "question": "Ngành Quản trị an ninh mạng có nhu cầu nhân lực cao không?",
+      "answer": "Có, an ninh mạng là lĩnh vực đang thiếu hụt nhân lực trầm trọng, với nhu cầu cao từ các doanh nghiệp và cơ quan nhà nước để bảo vệ dữ liệu và hệ thống."
+    },
+    {
+      "id": 12,
+      "category": "Career Prospects",
+      "question": "Sinh viên CNTT có cơ hội làm việc ở nước ngoài không?",
+      "answer": "Có, đặc biệt với chuyên ngành Công nghệ phần mềm, sinh viên có thể tham gia chương trình hợp tác với Đại học Deakin (Úc) và làm việc tại Úc với visa 2 năm sau tốt nghiệp."
+    },
+    {
+      "id": 13,
+      "category": "Facilities",
+      "question": "Cơ sở vật chất phục vụ học CNTT tại EPU có tốt không?",
+      "answer": "EPU có phòng thực hành CNTT hiện đại, thư viện với hơn 64.762 đầu sách, và các phòng thí nghiệm chuyên ngành, hỗ trợ tốt cho học tập và nghiên cứu."
+    },
+    {
+      "id": 15,
+      "category": "Facilities",
+      "question": "Trường có hỗ trợ truy cập tài liệu học tập trực tuyến không?",
+      "answer": "Có, sinh viên được truy cập thư viện số và các tài liệu học tập trực tuyến thông qua hệ thống e-learning của trường."
+    },
+    {
+      "id": 18,
+      "category": "Admissions Process",
+      "question": "Học phí ngành CNTT tại EPU là bao nhiêu?",
+      "answer": "Học phí dự kiến từ 14 triệu VNĐ/năm cho chương trình đại trà. Thông tin chính xác sẽ được cập nhật trên website epu.edu.vn."
+    },
+    {
+      "id": 20,
+      "category": "Career Prospects",
+      "question": "Sinh viên CNTT có được hỗ trợ thực tập tại doanh nghiệp không?",
+      "answer": "Có, EPU hợp tác với các doanh nghiệp như FPT Software, Viettel Solutions để tổ chức thực tập, giúp sinh viên tích lũy kinh nghiệm thực tế."
+    }
+  ]
+}
