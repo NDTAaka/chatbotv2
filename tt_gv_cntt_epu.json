@@ -1,0 +1,427 @@
+{
+  "institution": {
+    "name": "Đại học Điện Lực",
+    "abbreviation": "EPU",
+    "location": "Hà Nội, Việt Nam",
+    "type": "Công lập"
+  },
+  "department": {
+    "name": "Khoa Công nghệ Thông tin",
+    "program_code": "7480201",
+    "degree": "Cử nhân",
+    "description": "Đào tạo các chuyên ngành Công nghệ phần mềm, Hệ thống thương mại điện tử, Quản trị an ninh mạng, và Trí tuệ nhân tạo và thị giác máy tính."
+  },
+  "faculty": [
+    {
+      "name": "Nguyễn Hà Nam",
+      "title": "PGS.TS",
+      "position": "Trưởng khoa Công nghệ Thông tin",
+      "research_fields": [
+        "Trí tuệ nhân tạo",
+        "Học máy",
+        "Công nghệ tri thức",
+        "Khai phá dữ liệu",
+        "Hệ thông tin địa lý (GIS)",
+        "Kiến trúc phần mềm",
+        "Tin Sinh học"
+      ],
+      "courses_taught": []
+    },
+    {
+      "name": "Nguyễn Thị Thanh Tân",
+      "title": "TS",
+      "position": "Trưởng bộ môn KHMT & CHTTT",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Trí tuệ nhân tạo",
+        "Học máy",
+        "Công nghệ tri thức",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Lập trình C nâng cao",
+        "Cấu trúc dữ liệu và giải thuật",
+        "Nguyên lý lập trình hướng đối tượng",
+        "Ngôn ngữ lập trình C++"
+      ]
+    },
+    {
+      "name": "Phương Văn Cảnh",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Hệ thông tin địa lý (GIS)",
+        "Kiến trúc phần mềm",
+        "Các phương pháp hình thức hệ thống nhúng và thời gian thực",
+        "Các hệ thống thông minh"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Lập trình C nâng cao",
+        "Cấu trúc dữ liệu và giải thuật",
+        "Lập trình trên nền Web",
+        "Lập trình .Net",
+        "Phân tích thiết kế hệ thống thông tin",
+        "Lập trình Java",
+        "Đồ án lập trình .Net",
+        "Phát triển phần mềm trên web",
+        "Đồ án lập trình Java",
+        "Phát triển phần mềm trên thiết bị di động",
+        "Đồ án phát triển phần mềm trên web",
+        "Phát triển phần mềm web an toàn",
+        "Đồ án lập trình web nâng cao",
+        "An toàn và bảo mật ứng dụng web",
+        "Nhập môn cấu trúc dữ liệu và giải thuật",
+        "Phát triển phần mềm web an toàn"
+      ]
+    },
+    {
+      "name": "Phạm Quang Huy",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Các công nghệ mạng tiên tiến",
+        "Các ứng dụng mạng thế hệ mới",
+        "An ninh mạng"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Mạng máy tính",
+        "Hệ điều hành mạng",
+        "Phân tích và thiết kế an toàn mạng máy tính",
+        "An toàn điện toán đám mây",
+        "Công nghệ điện toán đám mây",
+        "Nhập môn an toàn và bảo mật thông tin"
+      ]
+    },
+    {
+      "name": "Nguyễn Thị Ngọc Tú",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Học máy",
+        "Xử lý ngôn ngữ tự nhiên",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Kiến trúc máy tính",
+        "Mạng máy tính",
+        "Nguyên lý hệ điều hành",
+        "Phân tích chiến lược thương mại điện tử",
+        "Marketing điện tử và công nghệ quảng bá sản phẩm online",
+        "Thanh toán qua mạng"
+      ]
+    },
+    {
+      "name": "Nguyễn Thị Hồng Khánh",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Trí tuệ nhân tạo",
+        "Công nghệ tri thức",
+        "Kiến trúc phần mềm",
+        "Tương tác người-máy",
+        "Các hệ thống thông minh"
+      ],
+      "courses_taught": [
+        "Nguyên lý lập trình hướng đối tượng",
+        "Phân tích thiết kế hệ thống thông tin",
+        "Lập trình Java",
+        "Phân tích thiết kế hướng đối tượng",
+        "Công nghệ phần mềm",
+        "Quản trị dự án phần mềm",
+        "Cơ sở dữ liệu",
+        "Toán rời rạc",
+        "Nhập môn trí tuệ nhân tạo"
+      ]
+    },
+    {
+      "name": "Bùi Khánh Linh",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ngôn ngữ tự nhiên",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Lập trình trên Windows",
+        "Phân tích thiết kế hệ thống thông tin",
+        "Phân tích thiết kế hướng đối tượng",
+        "Cơ sở lập trình Web",
+        "Cơ sở dữ liệu",
+        "Hệ quản trị cơ sở dữ liệu"
+      ]
+    },
+    {
+      "name": "Lê Thị Trang Linh",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Trí tuệ nhân tạo",
+        "An toàn và bảo mật thông tin",
+        "An ninh mạng",
+        "Kiến trúc phần mềm",
+        "Kiểm thử"
+      ],
+      "courses_taught": [
+        "Tiếng Anh chuyên ngành CNPM",
+        "Phân tích thiết kế hướng đối tượng",
+        "Công nghệ phần mềm",
+        "Quản trị dự án phần mềm",
+        "Kiểm thử và đảm bảo chất lượng PM",
+        "Tiếng Anh chuyên ngành an ninh mạng",
+        "Hệ chuyên gia",
+        "Nhập môn an toàn và bảo mật thông tin",
+        "Mật mã ứng dụng"
+      ]
+    },
+    {
+      "name": "Trần Thị Minh Thu",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Cơ sở dữ liệu",
+        "Toán rời rạc"
+      ]
+    },
+    {
+      "name": "Nguyễn Quỳnh Anh",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Lập trình C nâng cao",
+        "Nhập môn thương mại điện tử",
+        "Multimedia",
+        "Đồ họa ứng dụng",
+        "Tiếng Anh chuyên ngành TMĐT"
+      ]
+    },
+    {
+      "name": "Phạm Đức Hồng",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Học máy",
+        "Xử lý ngôn ngữ tự nhiên"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Công nghệ phần mềm",
+        "Automat & ngôn ngữ hình thức",
+        "Chương trình dịch"
+      ]
+    },
+    {
+      "name": "Ngô Ngọc Thành",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Đồ họa máy tính",
+        "Các hệ thống thông minh"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Lập trình C nâng cao",
+        "Cấu trúc dữ liệu và giải thuật",
+        "Ngôn ngữ lập trình C++",
+        "Thực tập hệ thống thông tin tích hợp",
+        "Hệ thống thông tin điện lực",
+        "Multimedia",
+        "Đồ họa ứng dụng"
+      ]
+    },
+    {
+      "name": "Lê Hoàn",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Hệ thông tin địa lý (GIS)",
+        "An toàn và bảo mật thông tin",
+        "Các công nghệ mạng tiên tiến"
+      ],
+      "courses_taught": []
+    },
+    {
+      "name": "Nguyễn Văn Đoàn",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Trí tuệ nhân tạo",
+        "Xử lý ngôn ngữ tự nhiên",
+        "Kiến trúc phần mềm",
+        "Các phương pháp hình thức hệ thống nhúng và thời gian thực",
+        "Hệ thống tính toán lớn",
+        "Các hệ thống thông minh"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Cấu trúc dữ liệu và giải thuật",
+        "Lập trình trên Windows",
+        "Nguyên lý lập trình hướng đối tượng",
+        "Lập trình .Net",
+        "Lập trình Java",
+        "Phân tích thiết kế hướng đối tượng",
+        "Đồ án lập trình .Net",
+        "Đồ án lập trình Java",
+        "Phát triển phần mềm trên thiết bị di động",
+        "Lập trình trên thiết bị di động",
+        "Hệ quản trị cơ sở dữ liệu",
+        "Toán rời rạc"
+      ]
+    },
+    {
+      "name": "Hoàng Thanh Tùng",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "An toàn và bảo mật thông tin",
+        "Các công nghệ mạng tiên tiến",
+        "Định tuyến và định vị trong mạng không dây"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Cơ sở lập trình Web",
+        "Hệ phân tán",
+        "Mạng máy tính",
+        "Thiết bị mạng",
+        "Quản trị mạng",
+        "Nhập môn an toàn và bảo mật thông tin"
+      ]
+    },
+    {
+      "name": "Trần Trung",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Trí tuệ nhân tạo",
+        "Học máy",
+        "Xử lý ngôn ngữ tự nhiên",
+        "Khai phá dữ liệu",
+        "An toàn và bảo mật thông tin",
+        "Kiến trúc phần mềm",
+        "Tương tác người-máy"
+      ],
+      "courses_taught": [
+        "Lập trình .Net",
+        "Lập trình hệ thống",
+        "Lập trình web nâng cao",
+        "Kiến trúc máy tính",
+        "Công nghệ điện toán đám mây",
+        "Máy học",
+        "Khai phá dữ liệu",
+        "Cấu trúc dữ liệu và giải thuật nâng cao",
+        "Học máy nâng cao"
+      ]
+    },
+    {
+      "name": "Vũ Hoàng Long",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Các mạng không dây di động"
+      ],
+      "courses_taught": [
+        "Nhập môn tin học",
+        "Lập trình C nâng cao",
+        "Cấu trúc dữ liệu và giải thuật"
+      ]
+    },
+    {
+      "name": "Lê Cường",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "An toàn và bảo mật thông tin"
+      ],
+      "courses_taught": [
+        "Cấu trúc dữ liệu và giải thuật",
+        "Công nghệ điện toán đám mây",
+        "Toán rời rạc",
+        "An toàn và bảo mật thông tin",
+        "Cơ sở lý thuyết mật mã",
+        "Nhập môn cấu trúc dữ liệu và giải thuật",
+        "An toàn cơ sở dữ liệu và ứng dụng web"
+      ]
+    },
+    {
+      "name": "Đinh Thu Khánh",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Công nghệ tri thức",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Phân tích thiết kế hướng đối tượng",
+        "Công nghệ phần mềm",
+        "Cơ sở lập trình Web",
+        "Cơ sở dữ liệu",
+        "Ngôn ngữ lập trình Python"
+      ]
+    },
+    {
+      "name": "Nguyễn Đình Thái",
+      "title": "ThS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Nguyên lý lập trình hướng đối tượng",
+        "Lập trình .Net",
+        "Nhập môn thương mại điện tử",
+        "Phân tích chiến lược thương mại điện tử",
+        "ERP",
+        "Ứng dụng CNTT trong quản trị quan hệ khách hàng"
+      ]
+    },
+    {
+      "name": "Đào Nam Anh",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Xử lý ảnh",
+        "Trí tuệ nhân tạo",
+        "Công nghệ tri thức",
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Phân tích thiết kế hệ thống thông tin",
+        "Đồ họa máy tính",
+        "Cơ sở lý thuyết mật mã",
+        "Phân tích chiến lược thương mại điện tử",
+        "Marketing điện tử và công nghệ quảng bá sản phẩm online",
+        "Thanh toán qua mạng",
+        "Đồ họa ứng dụng",
+        "An toàn TMĐT"
+      ]
+    },
+    {
+      "name": "Nguyễn Phúc Hậu",
+      "title": "TS",
+      "position": "Giảng viên",
+      "research_fields": [
+        "Khai phá dữ liệu"
+      ],
+      "courses_taught": [
+        "Trí tuệ nhân tạo"
+      ]
+    }
+  ],
+  "additional_info": {
+    "source": "Dữ liệu được tổng hợp từ tài liệu PGS.docx cung cấp bởi Khoa Công nghệ Thông tin, Đại học Điện Lực.",
+    "last_updated": "28/04/2025"
+  }
+}

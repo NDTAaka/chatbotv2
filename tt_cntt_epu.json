@@ -1,0 +1,126 @@
+{
+  "institution": {
+    "name": "Đại học Điện Lực",
+    "abbreviation": "EPU",
+    "location": "Hà Nội, Việt Nam",
+    "type": "Công lập"
+  },
+  "program": {
+    "name": "Công nghệ Thông tin",
+    "code": "7480201",
+    "degree": "Cử nhân",
+    "duration": "4 năm",
+    "specializations": [
+      {
+        "name": "Công nghệ phần mềm",
+        "description": "Trang bị kiến thức chuyên sâu về thuật toán, phương pháp phân tích, thiết kế hệ thống thông tin, quản trị dự án CNTT, và các nền tảng công nghệ để phát triển phần mềm.",
+        "career_paths": [
+          "Phân tích và thiết kế hệ thống thông tin cho doanh nghiệp",
+          "Lập trình và xây dựng phần mềm",
+          "Quản trị dự án CNTT",
+          "Vận hành hệ thống công nghệ thông tin",
+          "Tư vấn và định giá phần mềm",
+          "Phát triển và chuyển giao công nghệ"
+        ]
+      },
+      {
+        "name": "Hệ thống thương mại điện tử",
+        "description": "Tập trung vào phát triển và quản lý các hệ thống thương mại điện tử, tích hợp công nghệ web và dữ liệu.",
+        "career_paths": [
+          "Phát triển ứng dụng thương mại điện tử",
+          "Quản lý hệ thống thương mại điện tử",
+          "Phân tích dữ liệu kinh doanh"
+        ]
+      },
+      {
+        "name": "Quản trị an ninh mạng",
+        "description": "Đào tạo về thiết kế, vận hành và bảo mật hệ thống mạng, phòng chống tội phạm mạng.",
+        "career_paths": [
+          "Thiết kế và vận hành hệ thống mạng an toàn",
+          "Phân tích và ngăn chặn sự cố mạng",
+          "Bảo mật cơ sở dữ liệu và hệ thống thông tin",
+          "Điều tra và phòng chống tội phạm an ninh mạng"
+        ]
+      },
+      {
+        "name": "Trí tuệ nhân tạo và thị giác máy tính",
+        "description": "Tập trung vào các công nghệ AI, học máy, xử lý ảnh, và thực tế ảo.",
+        "career_paths": [
+          "Phát triển ứng dụng AI và học máy",
+          "Xử lý và phân tích hình ảnh",
+          "Nghiên cứu và phát triển công nghệ thực tế ảo"
+        ]
+      }
+    ]
+  },
+  "admission_2025": {
+    "methods": [
+      {
+        "method": "Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT 2025",
+        "description": "Thí sinh cần đạt ngưỡng đảm bảo chất lượng đầu vào theo ngành xét tuyển của trường.",
+        "combinations": [
+          "A00 (Toán, Lý, Hóa)",
+          "A01 (Toán, Lý, Anh)",
+          "D01 (Toán, Văn, Anh)",
+          "D07 (Toán, Hóa, Anh)"
+        ]
+      },
+      {
+        "method": "Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp điểm 2 môn thi THPT",
+        "description": "Thí sinh có chứng chỉ tiếng Anh quốc tế (IELTS, TOEFL,...) kết hợp với điểm 2 môn thi tốt nghiệp THPT trong tổ hợp xét tuyển."
+      },
+      {
+        "method": "Xét tuyển thẳng",
+        "description": "Theo quy định của Bộ Giáo dục và Đào tạo, áp dụng cho thí sinh đạt giải học sinh giỏi quốc gia, quốc tế hoặc các đối tượng ưu tiên khác."
+      },
+      {
+        "method": "Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực",
+        "description": "Xét tuyển dựa trên điểm thi đánh giá năng lực do ĐHQG-HCM hoặc các đơn vị uy tín tổ chức."
+      }
+    ],
+    "requirements": {
+      "general": "Tốt nghiệp THPT hoặc tương đương",
+      "specific": "Đạt ngưỡng điểm tối thiểu theo quy định của trường cho từng phương thức xét tuyển"
+    },
+    "application_period": {
+      "start": "Theo lịch tuyển sinh chung của Bộ GD&ĐT",
+      "end": "Theo thông báo chính thức trên website của trường"
+    },
+    "contact": {
+      "website": "https://epu.edu.vn",
+      "email": "tuyensinh@epu.edu.vn",
+      "phone": "Hotline tuyển sinh của trường (kiểm tra trên website chính thức)"
+    }
+  },
+  "tuition": {
+    "estimated": "Dự kiến 14 triệu VNĐ/năm (chương trình đại trà)",
+    "note": "Học phí có thể thay đổi theo từng năm học, vui lòng kiểm tra thông tin mới nhất trên website trường."
+  },
+  "facilities": {
+    "description": "Trường có cơ sở vật chất hiện đại, bao gồm phòng thực hành CNTT, thư viện với hơn 64.762 đầu sách, và các phòng thí nghiệm chuyên ngành.",
+    "highlights": [
+      "Phòng thực hành công nghệ phần mềm và mạng",
+      "Trung tâm nghiên cứu ứng dụng CNTT",
+      "Hệ thống máy tính cấu hình cao phục vụ học tập và nghiên cứu"
+    ]
+  },
+  "international_collaboration": {
+    "partner": "Đại học Deakin, Úc",
+    "details": "Công nhận tín chỉ 2 năm đầu của chuyên ngành Công nghệ phần mềm, cơ hội học tiếp và làm việc tại Úc (visa làm việc 2 năm sau tốt nghiệp)."
+  },
+  "career_prospects": {
+    "overview": "Ngành CNTT tại Đại học Điện Lực có nhu cầu nhân lực cao, đặc biệt trong các lĩnh vực phần mềm, an ninh mạng, và trí tuệ nhân tạo.",
+    "statistics": "Thị trường CNTT Việt Nam thiếu hàng chục ngàn nhân lực chất lượng cao mỗi năm.",
+    "potential_employers": [
+      "FPT Software",
+      "Viettel Solutions",
+      "VinAI",
+      "Các công ty khởi nghiệp công nghệ",
+      "Doanh nghiệp quốc tế tại Việt Nam"
+    ]
+  },
+  "additional_info": {
+    "source": "Thông tin được tổng hợp từ website chính thức của Đại học Điện Lực và các nguồn tuyển sinh uy tín.",
+    "last_updated": "28/04/2025"
+  }
+}

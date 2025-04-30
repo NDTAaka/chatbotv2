@@ -1,0 +1,62 @@
+{"input": "Điều kiện để xét tuyển ngành CNTT là gì?", "output": "Trường Đại học Điện Lực có các phương thức xét tuyển là xét tuyển học bạ,xét tuyển dựa vào kết quả ĐGNL và xét tuyển bằng điểm thi THPTQG.Với phương thức xét tuyển học bạ, điều kiện để xét tuyển là : Thí sinh có điểm xét tuyển (ĐXT) trong tổ hợp xét tuyển không thấp hơn 18 điểm theo thang điểm 30.
+Cách tính điểm và điểm ưu tiên xét tuyển: Xét kết quả học tập các môn thuộc các tổ hợp xét tuyển (theo ngành) của năm lớp 10, lớp 11 và học kỳ 1 lớp 12.
+ĐXT = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) + ĐƯT (nếu có)
+ĐTB Môn 1 = (ĐTB cả năm lớp 10 Môn 1 + ĐTB cả năm lớp 11 Môn 1 + ĐTB kỳ 1 lớp 12 Môn 1)/3;
+ĐTB Môn 2 = (ĐTB cả năm lớp10 Môn 2 + ĐTB cả năm lớp 11 Môn 2 + ĐTB kỳ 1 lớp 12 Môn 2)/3;
+ĐTB Môn 3 = (ĐTB cả năm lớp10 Môn 3 + ĐTB cả năm lớp 11 Môn 3 + ĐTB kỳ 1 lớp 12 Môn 3)/3;
+(ĐXT: Điểm xét tuyển; ĐTB: Điểm trung bình; ĐƯT: Điểm ưu tiên)
+(Đối tượng ưu tiên và khu vực ưu tiên áp dụng theo quy chế tuyển sinh Đại học năm 2022 của Bộ GD&ĐT).
+Còn đối với phương thức xét tuyển bằng điểm thi THPTQG sẽ có mức điểm chuẩn qua từng năm."}
+{"input": "Nguyên tắc xét tuyển của trường Đại học Điện Lực là gì ?", "output": "Thí sinh đăng ký xét tuyển theo ngành đào tạo/mã ngành;
+Điểm trúng tuyển xác định theo ngành đào tạo/mã ngành;
+Không có sự chênh lệch điểm giữa các tổ hợp xét tuyển;
+Xét tuyển theo mức độ ưu tiên từ cao xuống thấp trong các nguyện vọng đã đăng ký. Nếu đã trúng tuyển nguyện vọng có ưu tiên cao hơn, thí sinh sẽ không được xét các nguyện vọng có mức độ ưu tiên tiếp theo;
+Xét tuyển từ cao xuống thấp cho đến khi hết chỉ tiêu xét tuyển;
+Trường không áp dụng thêm tiêu chí phụ trong xét tuyển ngoài các quy định trong quy chế tuyển sinh của Bộ GD&ĐT;
+Nếu xét tuyển theo từng phương thức xét tuyển chưa đủ chỉ tiêu, chỉ tiêu còn lại được chuyển sang xét tuyển theo các phương thức xét tuyển khác;
+Điểm xét tuyển theo thang điểm 30 và làm tròn đến hai chữ số thập phân;
+Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT và một năm kế tiếp; 
+Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau: Điểm ưu tiên = [(30 - Tổng điểm đạt được)/7,5] x Mức điểm ưu tiên theo quy định.
+Thí sinh trúng tuyển phải xác nhận nhập học và nhập học trong thời gian quy định theo thông báo của Trường. Quá thời hạn này, thí sinh không xác nhận nhập học và nhập học được xem như từ chối nhập học tại Trường. "}
+{"input": "Lệ phí xét tuyển học bạ của trường Đại học Điện Lực ?", "output": "Thí sinh có thể chọn 1 trong 3 cách thức dưới đây để nộp lệ phí cho Trường Đại học Điện lực
+Cách 1: Nộp trực tiếp tại Bộ phận tuyển sinh, Phòng Đào tạo, Trường Đại học Điện lực
+Cách 2: Chuyển lệ phí vào tài khoản của Trường Đại học Điện lực 
+Số tài khoản:  2151 0000 963 658  
+Tại: Ngân hàng BIDV – Chi nhánh Cầu Giấy/ 
+Nội dung: LPHB2024_Họ và tên_Số CMND
+Cách 3: Chuyển lệ phí tại các Bưu cục của Bưu điện Việt Nam đến Bộ phận Tuyển sinh, Phòng đào tạo, Trường Đại học Điện lực."}
+{"input": "Điểm chuẩn ngành Công nghệ Thông tin năm ngoái là bao nhiêu?", "output": "Điểm chuẩn ngành Công nghệ thông tin năm 2024 là: 23 điểm."}
+{"input": "Sinh viên CNTT thường làm ở đâu sau khi tốt nghiệp?", "output": "Sinh viên CNTT tốt nghiệp thường làm việc tại các công ty công nghệ, phần mềm, ngân hàng, hoặc khởi nghiệp. Nhà trường có nhiều đối tác hỗ trợ tìm kiếm việc làm cho sinh viên."}
+{"input": "Ngành CNTT có chương trình thực tập bắt buộc không?", "output": " Ngành CNTT có chương trình thực tập bắt buộc vào năm cuối. Nhà trường hỗ trợ sinh viên tìm kiếm nơi thực tập tại các doanh nghiệp uy tín."}
+{"input": "Học bổng có giá trị bao nhiêu?", "output": ""}
+{"input": "Ngành Công nghệ Thông tin tại Đại học Điện Lực là gì?", "output": ""}
+{"input": "Em cần chuẩn bị gì trước khi vào học CNTT?", "output": ""}
+{"input": "Học bổng trường dành cho sinh viên ngành CNTT gồm những loại nào?", "output": ""}
+{"input": "Ngành CNTT ở Đại học Điện Lực đào tạo những gì?", "output": " phí được công khai minh bạch mỗi kỳ."}
+{"input": "Chương trình học CNTT tại trường có gì đặc biệt?", "output": "ên website tuyển sinh của trường nhé!"}
+{"input": "Có hỗ trợ giảm học phí cho sinh viên không?", "output": "n."}
+{"input": "Nhà trường hỗ trợ thực tập cho sinh viên CNTT thế nào?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Em có thể nhận học bổng nếu học ngành CNTT không?", "output": " bản đến nâng cao, bao gồm cả thực hành dự án."}
+{"input": "Sinh viên CNTT có học về AI, Blockchain không?", "output": " bản đến nâng cao, bao gồm cả thực hành dự án."}
+{"input": "Ngành CNTT có học lập trình nhiều không?", "output": "cơ hội nhận học bổng là rất lớn."}
+{"input": "Ngành CNTT ở Đại học Điện Lực có đào tạo kỹ năng mềm không?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Nhà trường có hỗ trợ giới thiệu việc làm không?", "output": "n."}
+{"input": "Điều kiện để nhận học bổng CNTT là gì?", "output": "cơ hội nhận học bổng là rất lớn."}
+{"input": "Học phí ngành CNTT hệ chất lượng cao có khác không?", "output": "ng luôn đồng hành hỗ trợ em."}
+{"input": "Học CNTT ở Đại học Điện Lực ra trường có dễ xin việc không?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Học phí có tăng theo từng năm không?", "output": "ên website tuyển sinh của trường nhé!"}
+{"input": "Trường yêu cầu những tổ hợp môn nào để xét tuyển CNTT?", "output": "cơ hội nhận học bổng là rất lớn."}
+{"input": "Cơ hội nghề nghiệp cho ngành Công nghệ Thông Tin như thế nào?", "output": " hỗ trợ tìm kiếm việc làm cho sinh viên."}
+{"input": "Khi nào sinh viên CNTT bắt đầu đi thực tập?", "output": "cơ hội nhận học bổng là rất lớn."}
+{"input": "Học CNTT có cần giỏi Toán không?", "output": "cơ hội nhận học bổng là rất lớn."}
+{"input": "Học phí ngành CNTT mỗi năm khoảng bao nhiêu?", "output": "n."}
+{"input": "CNTT chất lượng cao có học tiếng Anh nhiều không?", "output": " hỗ trợ tìm kiếm việc làm cho sinh viên."}
+{"input": "Chương trình CNTT chuẩn và CNTT chất lượng cao khác nhau như thế nào?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Sinh viên CNTT có tham gia các dự án thực tế không?", "output": " phí được công khai minh bạch mỗi kỳ."}
+{"input": "Em cần bao nhiêu điểm để đậu ngành CNTT ở Đại học Điện Lực?", "output": "ên website tuyển sinh của trường nhé!"}
+{"input": "Em học lực trung bình có vào ngành CNTT được không?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Em muốn biết tổng quan về ngành CNTT của trường mình?", "output": "i thế lớn khi xin việc sau này."}
+{"input": "Mức lương trung bình của sinh viên CNTT mới ra trường là bao nhiêu?", "output":  "Mức lương khởi điểm cho sinh viên CNTT tại Việt Nam dao động từ 10-20 triệu VNĐ/tháng, tùy vào vị trí và năng lực, có thể cao hơn ở các công ty quốc tế."}
+{"input": "Cơ hội việc làm sau khi tốt nghiệp ngành CNTT tại EPU như thế nào?", "output": "Hơn 95% sinh viên CNTT tại EPU có việc làm đúng chuyên ngành sau khi ra trường, với các vị trí như lập trình viên, chuyên gia an ninh mạng, hoặc nhà phát triển AI tại các công ty như FPT, Viettel, VinAI."}
+{"input": "Ngành CNTT tại EPU có yêu cầu ngoại ngữ không?", "output": "Ngoại ngữ, đặc biệt là tiếng Anh, rất quan trọng. Sinh viên cần đạt trình độ tiếng Anh tốt để tiếp cận tài liệu quốc tế và làm việc trong môi trường toàn cầu.Yêu cầu đầu ra của trường là Toeic 550 hoặc Ielts 5.5."}
+

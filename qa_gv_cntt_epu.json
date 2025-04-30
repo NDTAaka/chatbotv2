@@ -1,0 +1,609 @@
+{
+  "title": "Hỏi Đáp về Giảng viên Khoa Công nghệ Thông tin - Đại học Điện Lực",
+  "institution": "Đại học Điện Lực (EPU)",
+  "program": "Công nghệ Thông tin",
+  "last_updated": "28/04/2025",
+  "questions": [
+    {
+      "id": 101,
+      "category": "Faculty Roles",
+      "question": "Ai là Trưởng khoa Công nghệ Thông tin tại Đại học Điện Lực?",
+      "answer": "PGS.TS Nguyễn Hà Nam là Trưởng khoa Công nghệ Thông tin tại EPU."
+    },
+    {
+      "id": 102,
+      "category": "Faculty Roles",
+      "question": "Ai là Trưởng bộ môn KHMT & CHTTT tại khoa CNTT EPU?",
+      "answer": "TS Nguyễn Thị Thanh Tân là Trưởng bộ môn Khoa học Máy tính và Công nghệ Hệ thống Thông tin (KHMT & CHTTT)."
+    },
+    {
+      "id": 103,
+      "category": "Faculty Roles",
+      "question": "Có bao nhiêu giảng viên trong khoa CNTT tại EPU?",
+      "answer": "Khoa CNTT tại EPU có 21 giảng viên, bao gồm 1 PGS.TS, 13 TS, và 7 ThS."
+    },
+    {
+      "id": 104,
+      "category": "Faculty Roles",
+      "question": "Giảng viên nào tại EPU có học hàm Phó Giáo sư?",
+      "answer": "PGS.TS Nguyễn Hà Nam là giảng viên duy nhất có học hàm Phó Giáo sư trong khoa CNTT."
+    },
+    {
+      "id": 105,
+      "category": "Faculty Roles",
+      "question": "Có giảng viên nào không có lĩnh vực nghiên cứu được liệt kê không?",
+      "answer": "Có, ThS Trần Thị Minh Thu không có lĩnh vực nghiên cứu được liệt kê trong tài liệu."
+    },
+    {
+      "id": 106,
+      "category": "Research Fields",
+      "question": "Giảng viên nào tại EPU nghiên cứu về Trí tuệ nhân tạo?",
+      "answer": "Các giảng viên nghiên cứu về Trí tuệ nhân tạo gồm: PGS.TS Nguyễn Hà Nam, TS Nguyễn Thị Thanh Tân, TS Nguyễn Thị Hồng Khánh, TS Lê Thị Trang Linh, TS Nguyễn Văn Đoàn, TS Trần Trung, TS Đào Nam Anh."
+    },
+    {
+      "id": 107,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về An ninh mạng tại khoa CNTT EPU?",
+      "answer": "Các giảng viên nghiên cứu về An ninh mạng là: ThS Phạm Quang Huy, TS Lê Thị Trang Linh, TS Lê Hoàn, TS Hoàng Thanh Tùng, TS Trần Trung, TS Lê Cường."
+    },
+    {
+      "id": 108,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Xử lý ảnh không?",
+      "answer": "Có, các giảng viên nghiên cứu về Xử lý ảnh gồm: TS Nguyễn Thị Thanh Tân, ThS Phương Văn Cảnh, ThS Phạm Quang Huy, TS Nguyễn Quỳnh Anh, TS Ngô Ngọc Thành, TS Nguyễn Văn Đoàn, TS Đào Nam Anh."
+    },
+    {
+      "id": 109,
+      "category": "Research Fields",
+      "question": "Lĩnh vực Khai phá dữ liệu được nghiên cứu bởi những ai?",
+      "answer": "Khai phá dữ liệu được nghiên cứu bởi: PGS.TS Nguyễn Hà Nam, TS Nguyễn Thị Thanh Tân, TS Nguyễn Thị Ngọc Tú, ThS Bùi Khánh Linh, TS Nguyễn Quỳnh Anh, TS Trần Trung, ThS Đinh Thu Khánh, ThS Nguyễn Đình Thái, TS Đào Nam Anh, TS Nguyễn Phúc Hậu."
+    },
+    {
+      "id": 110,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Hệ thống thông tin địa lý (GIS) tại EPU?",
+      "answer": "Các giảng viên nghiên cứu về GIS là: PGS.TS Nguyễn Hà Nam, ThS Phương Văn Cảnh, TS Lê Hoàn."
+    },
+    {
+      "id": 111,
+      "category": "Research Fields",
+      "question": "Lĩnh vực Xử lý ngôn ngữ tự nhiên được nghiên cứu bởi ai?",
+      "answer": "Các giảng viên nghiên cứu Xử lý ngôn ngữ tự nhiên gồm: TS Nguyễn Thị Ngọc Tú, ThS Bùi Khánh Linh, TS Phạm Đức Hồng, TS Nguyễn Văn Đoàn, TS Trần Trung."
+    },
+    {
+      "id": 112,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Tin Sinh học không?",
+      "answer": "Có, PGS.TS Nguyễn Hà Nam là giảng viên duy nhất nghiên cứu về Tin Sinh học."
+    },
+    {
+      "id": 113,
+      "category": "Research Fields",
+      "question": "Ai tại EPU nghiên cứu về Công nghệ mạng tiên tiến?",
+      "answer": "Các giảng viên nghiên cứu Công nghệ mạng tiên tiến là: ThS Phạm Quang Huy, TS Lê Hoàn, ThS Hoàng Thanh Tùng."
+    },
+    {
+      "id": 114,
+      "category": "Research Fields",
+      "question": "Lĩnh vực Kiến trúc phần mềm được nghiên cứu bởi những giảng viên nào?",
+      "answer": "Kiến trúc phần mềm được nghiên cứu bởi: PGS.TS Nguyễn Hà Nam, ThS Phương Văn Cảnh, TS Nguyễn Thị Hồng Khánh, TS Lê Thị Trang Linh, TS Nguyễn Văn Đoàn, TS Trần Trung."
+    },
+    {
+      "id": 115,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Các hệ thống thông minh không?",
+      "answer": "Có, các giảng viên nghiên cứu Các hệ thống thông minh là: ThS Phương Văn Cảnh, TS Nguyễn Thị Hồng Khánh, TS Ngô Ngọc Thành, TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 116,
+      "category": "Courses Taught",
+      "question": "Môn Nhập môn tin học được giảng dạy bởi ai?",
+      "answer": "Môn Nhập môn tin học được giảng dạy bởi: TS Nguyễn Thị Thanh Tân, ThS Phương Văn Cảnh, ThS Phạm Quang Huy, ThS Bùi Khánh Linh, TS Phạm Đức Hồng, TS Ngô Ngọc Thành, TS Nguyễn Văn Đoàn, ThS Trần Thị Minh Thu, ThS Hoàng Thanh Tùng, TS Vũ Hoàng Long."
+    },
+    {
+      "id": 117,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Lập trình C nâng cao tại EPU?",
+      "answer": "Môn Lập trình C nâng cao được dạy bởi: TS Nguyễn Thị Thanh Tân, ThS Phương Văn Cảnh, TS Ngô Ngọc Thành, TS Nguyễn Quỳnh Anh, TS Vũ Hoàng Long."
+    },
+    {
+      "id": 118,
+      "category": "Courses Taught",
+      "question": "Môn Cấu trúc dữ liệu và giải thuật được giảng dạy bởi ai?",
+      "answer": "Môn Cấu trúc dữ liệu và giải thuật được dạy bởi: TS Nguyễn Thị Thanh Tân, ThS Phương Văn Cảnh, TS Ngô Ngọc Thành, TS Nguyễn Văn Đoàn, TS Lê Cường, TS Trần Trung, TS Vũ Hoàng Long."
+    },
+    {
+      "id": 119,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Lập trình Java tại khoa CNTT EPU?",
+      "answer": "Môn Lập trình Java được dạy bởi: ThS Phương Văn Cảnh, TS Nguyễn Thị Hồng Khánh, TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 120,
+      "category": "Courses Taught",
+      "question": "Môn Công nghệ phần mềm được giảng dạy bởi những ai?",
+      "answer": "Môn Công nghệ phần mềm được dạy bởi: TS Nguyễn Thị Hồng Khánh, TS Lê Thị Trang Linh, TS Phạm Đức Hồng, ThS Đinh Thu Khánh."
+    },
+    {
+      "id": 121,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn An ninh mạng hoặc An toàn và bảo mật thông tin?",
+      "answer": "Môn An toàn và bảo mật thông tin được dạy bởi: ThS Phạm Quang Huy, TS Lê Thị Trang Linh, TS Lê Cường. Các môn liên quan như An toàn cơ sở dữ liệu và ứng dụng web cũng do TS Lê Cường dạy."
+    },
+    {
+      "id": 122,
+      "category": "Courses Taught",
+      "question": "Môn Phân tích thiết kế hệ thống thông tin được ai giảng dạy?",
+      "answer": "Môn Phân tích thiết kế hệ thống thông tin được dạy bởi: ThS Phương Văn Cảnh, TS Nguyễn Thị Hồng Khánh, ThS Bùi Khánh Linh, TS Đào Nam Anh."
+    },
+    {
+      "id": 123,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Máy học hoặc Học máy nâng cao?",
+      "answer": "Môn Máy học và Học máy nâng cao được dạy bởi TS Trần Trung."
+    },
+    {
+      "id": 124,
+      "category": "Courses Taught",
+      "question": "Môn Nhập môn trí tuệ nhân tạo được giảng dạy bởi ai?",
+      "answer": "Môn Nhập môn trí tuệ nhân tạo được dạy bởi TS Nguyễn Thị Hồng Khánh và TS Nguyễn Phúc Hậu."
+    },
+    {
+      "id": 125,
+      "category": "Courses Taught",
+      "question": "Môn Lập trình trên nền Web được ai giảng dạy?",
+      "answer": "Môn Lập trình trên nền Web được dạy bởi ThS Phương Văn Cảnh, ThS Bùi Khánh Linh, ThS Đinh Thu Khánh, ThS Hoàng Thanh Tùng."
+    },
+    {
+      "id": 126,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Công nghệ điện toán đám mây?",
+      "answer": "Môn Công nghệ điện toán đám mây được dạy bởi: ThS Phạm Quang Huy, TS Trần Trung, TS Lê Cường."
+    },
+    {
+      "id": 127,
+      "category": "Courses Taught",
+      "question": "Môn Toán rời rạc được giảng dạy bởi những ai?",
+      "answer": "Môn Toán rời rạc được dạy bởi: TS Nguyễn Thị Hồng Khánh, ThS Trần Thị Minh Thu, TS Nguyễn Văn Đoàn, TS Lê Cường."
+    },
+    {
+      "id": 128,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Phân tích chiến lược thương mại điện tử?",
+      "answer": "Môn Phân tích chiến lược thương mại điện tử được dạy bởi: TS Nguyễn Thị Ngọc Tú, ThS Nguyễn Đình Thái, TS Đào Nam Anh."
+    },
+    {
+      "id": 129,
+      "category": "Courses Taught",
+      "question": "Môn Đồ họa máy tính được giảng dạy bởi ai?",
+      "answer": "Môn Đồ họa máy tính được dạy bởi TS Đào Nam Anh."
+    },
+    {
+      "id": 130,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Kiểm thử và đảm bảo chất lượng phần mềm?",
+      "answer": "Môn Kiểm thử và đảm bảo chất lượng phần mềm được dạy bởi TS Lê Thị Trang Linh."
+    },
+    {
+      "id": 131,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có nhiều lĩnh vực nghiên cứu nhất tại EPU?",
+      "answer": "PGS.TS Nguyễn Hà Nam và TS Nguyễn Văn Đoàn có nhiều lĩnh vực nghiên cứu nhất, mỗi người với 7 lĩnh vực."
+    },
+    {
+      "id": 132,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào dạy nhiều môn học nhất tại khoa CNTT?",
+      "answer": "ThS Phương Văn Cảnh dạy nhiều môn nhất, với 17 môn học, bao gồm Lập trình Java, Lập trình .Net, và các đồ án web."
+    },
+    {
+      "id": 133,
+      "category": "Faculty Expertise",
+      "question": "Có giảng viên nào chuyên về mạng không dây không?",
+      "answer": "Có, TS Vũ Hoàng Long chuyên nghiên cứu về Các mạng không dây di động, và ThS Hoàng Thanh Tùng nghiên cứu về Định tuyến và định vị trong mạng không dây."
+    },
+    {
+      "id": 134,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có chuyên môn về Tương tác người-máy?",
+      "answer": "TS Nguyễn Thị Hồng Khánh và TS Trần Trung có chuyên môn nghiên cứu về Tương tác người-máy."
+    },
+    {
+      "id": 135,
+      "category": "Faculty Expertise",
+      "question": "Ai tại EPU có thể hướng dẫn nghiên cứu về Hệ thống nhúng?",
+      "answer": "ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn có thể hướng dẫn nghiên cứu về Các phương pháp hình thức hệ thống nhúng và thời gian thực."
+    },
+    {
+      "id": 136,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ nghiên cứu về Công nghệ tri thức?",
+      "answer": "Các giảng viên nghiên cứu Công nghệ tri thức là: PGS.TS Nguyễn Hà Nam, TS Nguyễn Thị Thanh Tân, TS Nguyễn Thị Hồng Khánh, ThS Đinh Thu Khánh, TS Đào Nam Anh."
+    },
+    {
+      "id": 137,
+      "category": "Faculty Expertise",
+      "question": "Có giảng viên nào chuyên về Đồ họa máy tính không?",
+      "answer": "TS Ngô Ngọc Thành chuyên nghiên cứu về Đồ họa máy tính và dạy các môn như Đồ họa ứng dụng."
+    },
+    {
+      "id": 138,
+      "category": "Faculty Expertise",
+      "question": "Ai có thể hướng dẫn sinh viên về Mật mã học?",
+      "answer": "TS Lê Thị Trang Linh (dạy Mật mã ứng dụng) và TS Lê Cường (dạy Cơ sở lý thuyết mật mã) có thể hướng dẫn về Mật mã học."
+    },
+    {
+      "id": 139,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ nghiên cứu về Thương mại điện tử?",
+      "answer": "TS Nguyễn Thị Ngọc Tú, ThS Nguyễn Đình Thái, TS Đào Nam Anh có chuyên môn về Thương mại điện tử, dạy các môn như Phân tích chiến lược TMĐT và An toàn TMĐT."
+    },
+    {
+      "id": 140,
+      "category": "Faculty Expertise",
+      "question": "Có giảng viên nào nghiên cứu về Hệ thống tính toán lớn không?",
+      "answer": "TS Nguyễn Văn Đoàn là giảng viên duy nhất nghiên cứu về Hệ thống tính toán lớn."
+    },
+    {
+      "id": 141,
+      "category": "Courses Taught",
+      "question": "Môn Ngôn ngữ lập trình C++ được dạy bởi ai?",
+      "answer": "Môn Ngôn ngữ lập trình C++ được dạy bởi TS Nguyễn Thị Thanh Tân và TS Ngô Ngọc Thành."
+    },
+    {
+      "id": 142,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Lập trình .Net tại EPU?",
+      "answer": "Môn Lập trình .Net được dạy bởi: ThS Phương Văn Cảnh, TS Nguyễn Văn Đoàn, ThS Nguyễn Đình Thái, TS Trần Trung."
+    },
+    {
+      "id": 143,
+      "category": "Courses Taught",
+      "question": "Môn Hệ quản trị cơ sở dữ liệu được giảng dạy bởi ai?",
+      "answer": "Môn Hệ quản trị cơ sở dữ liệu được dạy bởi: ThS Bùi Khánh Linh, TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 144,
+      "category": "Courses Taught",
+      "question": "Môn Phát triển phần mềm trên thiết bị di động được ai giảng dạy?",
+      "answer": "Môn Phát triển phần mềm trên thiết bị di động được dạy bởi ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 145,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Marketing điện tử và công nghệ quảng bá sản phẩm online?",
+      "answer": "Môn Marketing điện tử và công nghệ quảng bá sản phẩm online được dạy bởi TS Nguyễn Thị Ngọc Tú và TS Đào Nam Anh."
+    },
+    {
+      "id": 146,
+      "category": "Courses Taught",
+      "question": "Môn Quản trị dự án phần mềm được giảng dạy bởi ai?",
+      "answer": "Môn Quản trị dự án phần mềm được dạy bởi TS Nguyễn Thị Hồng Khánh và TS Lê Thị Trang Linh."
+    },
+    {
+      "id": 147,
+      "category": "Courses Taught",
+      "question": "Môn Hệ chuyên gia được dạy bởi ai?",
+      "answer": "Môn Hệ chuyên gia được dạy bởi TS Lê Thị Trang Linh."
+    },
+    {
+      "id": 148,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Multimedia tại khoa CNTT?",
+      "answer": "Môn Multimedia được dạy bởi TS Nguyễn Quỳnh Anh và TS Ngô Ngọc Thành."
+    },
+    {
+      "id": 149,
+      "category": "Courses Taught",
+      "question": "Môn Thanh toán qua mạng được giảng dạy bởi ai?",
+      "answer": "Môn Thanh toán qua mạng được dạy bởi TS Nguyễn Thị Ngọc Tú và TS Đào Nam Anh."
+    },
+    {
+      "id": 150,
+      "category": "Courses Taught",
+      "question": "Môn Kiến trúc máy tính được ai giảng dạy?",
+      "answer": "Môn Kiến trúc máy tính được dạy bởi TS Nguyễn Thị Ngọc Tú và TS Trần Trung."
+    },
+    {
+      "id": 151,
+      "category": "Faculty Roles",
+      "question": "Có bao nhiêu giảng viên có học vị Tiến sĩ trong khoa CNTT EPU?",
+      "answer": "Khoa CNTT EPU có 13 giảng viên có học vị Tiến sĩ."
+    },
+    {
+      "id": 152,
+      "category": "Faculty Roles",
+      "question": "Có giảng viên nào vừa là Trưởng khoa vừa giảng dạy môn học không?",
+      "answer": "Không, PGS.TS Nguyễn Hà Nam, Trưởng khoa CNTT, không có môn học nào được liệt kê trong tài liệu."
+    },
+    {
+      "id": 153,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Công nghệ tri thức tại EPU?",
+      "answer": "Các giảng viên nghiên cứu Công nghệ tri thức là: PGS.TS Nguyễn Hà Nam, TS Nguyễn Thị Thanh Tân, TS Nguyễn Thị Hồng Khánh, ThS Đinh Thu Khánh, TS Đào Nam Anh."
+    },
+    {
+      "id": 154,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về An toàn điện toán đám mây không?",
+      "answer": "ThS Phạm Quang Huy nghiên cứu về Các ứng dụng mạng thế hệ mới và dạy môn An toàn điện toán đám mây, có liên quan đến lĩnh vực này."
+    },
+    {
+      "id": 155,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Các phương pháp hình thức hệ thống nhúng và thời gian thực?",
+      "answer": "ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn nghiên cứu về Các phương pháp hình thức hệ thống nhúng và thời gian thực."
+    },
+    {
+      "id": 156,
+      "category": "Courses Taught",
+      "question": "Môn Nguyên lý lập trình hướng đối tượng được ai giảng dạy?",
+      "answer": "Môn Nguyên lý lập trình hướng đối tượng được dạy bởi: TS Nguyễn Thị Thanh Tân, TS Nguyễn Thị Hồng Khánh, TS Nguyễn Văn Đoàn, ThS Nguyễn Đình Thái."
+    },
+    {
+      "id": 157,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Nhập môn thương mại điện tử?",
+      "answer": "Môn Nhập môn thương mại điện tử được dạy bởi TS Nguyễn Quỳnh Anh và ThS Nguyễn Đình Thái."
+    },
+    {
+      "id": 158,
+      "category": "Courses Taught",
+      "question": "Môn Lập trình trên Windows được giảng dạy bởi ai?",
+      "answer": "Môn Lập trình trên Windows được dạy bởi ThS Bùi Khánh Linh và TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 159,
+      "category": "Courses Taught",
+      "question": "Môn An toàn TMĐT được dạy bởi ai?",
+      "answer": "Môn An toàn TMĐT được dạy bởi TS Đào Nam Anh."
+    },
+    {
+      "id": 160,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Hệ phân tán tại khoa CNTT?",
+      "answer": "Môn Hệ phân tán được dạy bởi ThS Hoàng Thanh Tùng."
+    },
+    {
+      "id": 161,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hướng dẫn sinh viên về lập trình web an toàn?",
+      "answer": "ThS Phương Văn Cảnh, dạy các môn Phát triển phần mềm web an toàn và An toàn và bảo mật ứng dụng web, có thể hướng dẫn về lập trình web an toàn."
+    },
+    {
+      "id": 162,
+      "category": "Faculty Expertise",
+      "question": "Ai có thể hỗ trợ sinh viên nghiên cứu về Kiểm thử phần mềm?",
+      "answer": "TS Lê Thị Trang Linh, với nghiên cứu về Kiểm thử và dạy môn Kiểm thử và đảm bảo chất lượng PM, có thể hỗ trợ nghiên cứu về Kiểm thử phần mềm."
+    },
+    {
+      "id": 163,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào phù hợp để hướng dẫn đồ án về trí tuệ nhân tạo?",
+      "answer": "TS Nguyễn Thị Hồng Khánh và TS Nguyễn Phúc Hậu, dạy Nhập môn trí tuệ nhân tạo, cùng TS Trần Trung, dạy Máy học, phù hợp để hướng dẫn đồ án về trí tuệ nhân tạo."
+    },
+    {
+      "id": 164,
+      "category": "Faculty Expertise",
+      "question": "Ai có thể hướng dẫn sinh viên về phát triển ứng dụng di động?",
+      "answer": "ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn, dạy Phát triển phần mềm trên thiết bị di động, có thể hướng dẫn về lĩnh vực này."
+    },
+    {
+      "id": 165,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có kinh nghiệm về quản trị mạng?",
+      "answer": "ThS Hoàng Thanh Tùng, dạy các môn Mạng máy tính, Thiết bị mạng, và Quản trị mạng, có kinh nghiệm về quản trị mạng."
+    },
+    {
+      "id": 166,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Hệ thống thông tin điện lực không?",
+      "answer": "TS Ngô Ngọc Thành dạy môn Hệ thống thông tin điện lực, nhưng không có lĩnh vực nghiên cứu cụ thể về chủ đề này được liệt kê."
+    },
+    {
+      "id": 167,
+      "category": "Courses Taught",
+      "question": "Môn Cơ sở lý thuyết mật mã được giảng dạy bởi ai?",
+      "answer": "Môn Cơ sở lý thuyết mật mã được dạy bởi TS Lê Cường và TS Đào Nam Anh."
+    },
+    {
+      "id": 168,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Automat & ngôn ngữ hình thức?",
+      "answer": "Môn Automat & ngôn ngữ hình thức được dạy bởi TS Phạm Đức Hồng."
+    },
+    {
+      "id": 169,
+      "category": "Courses Taught",
+      "question": "Môn Ngôn ngữ lập trình Python được giảng dạy bởi ai?",
+      "answer": "Môn Ngôn ngữ lập trình Python được dạy bởi ThS Đinh Thu Khánh."
+    },
+    {
+      "id": 170,
+      "category": "Courses Taught",
+      "question": "Môn ERP được dạy bởi ai tại EPU?",
+      "answer": "Môn ERP được dạy bởi ThS Nguyễn Đình Thái."
+    },
+    {
+      "id": 171,
+      "category": "Faculty Roles",
+      "question": "Có giảng viên nào không dạy môn học nào không?",
+      "answer": "Có, PGS.TS Nguyễn Hà Nam và TS Lê Hoàn không có môn học nào được liệt kê trong tài liệu."
+    },
+    {
+      "id": 172,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Các ứng dụng mạng thế hệ mới?",
+      "answer": "ThS Phạm Quang Huy nghiên cứu về Các ứng dụng mạng thế hệ mới."
+    },
+    {
+      "id": 173,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Định tuyến và định vị trong mạng không dây không?",
+      "answer": "ThS Hoàng Thanh Tùng nghiên cứu về Định tuyến và định vị trong mạng không dây."
+    },
+    {
+      "id": 174,
+      "category": "Courses Taught",
+      "question": "Môn Thực tập hệ thống thông tin tích hợp được dạy bởi ai?",
+      "answer": "Môn Thực tập hệ thống thông tin tích hợp được dạy bởi TS Ngô Ngọc Thành."
+    },
+    {
+      "id": 175,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Chương trình dịch tại khoa CNTT?",
+      "answer": "Môn Chương trình dịch được dạy bởi TS Phạm Đức Hồng."
+    },
+    {
+      "id": 176,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ sinh viên về đồ họa ứng dụng?",
+      "answer": "TS Nguyễn Quỳnh Anh, TS Ngô Ngọc Thành, và TS Đào Nam Anh, dạy Đồ họa ứng dụng, có thể hỗ trợ về lĩnh vực này."
+    },
+    {
+      "id": 177,
+      "category": "Faculty Expertise",
+      "question": "Ai phù hợp để hướng dẫn nghiên cứu về xử lý ngôn ngữ tự nhiên?",
+      "answer": "TS Nguyễn Thị Ngọc Tú, ThS Bùi Khánh Linh, TS Phạm Đức Hồng, TS Nguyễn Văn Đoàn, và TS Trần Trung, với nghiên cứu về Xử lý ngôn ngữ tự nhiên, phù hợp để hướng dẫn."
+    },
+    {
+      "id": 178,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ sinh viên về an toàn cơ sở dữ liệu?",
+      "answer": "TS Lê Cường, dạy An toàn cơ sở dữ liệu và ứng dụng web, có thể hỗ trợ về an toàn cơ sở dữ liệu."
+    },
+    {
+      "id": 179,
+      "category": "Faculty Expertise",
+      "question": "Ai có thể hướng dẫn sinh viên về quản trị quan hệ khách hàng bằng CNTT?",
+      "answer": "ThS Nguyễn Đình Thái, dạy Ứng dụng CNTT trong quản trị quan hệ khách hàng, có thể hướng dẫn về lĩnh vực này."
+    },
+    {
+      "id": 180,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào phù hợp để hướng dẫn đồ án về mạng máy tính?",
+      "answer": "ThS Phạm Quang Huy, ThS Hoàng Thanh Tùng, và TS Nguyễn Thị Ngọc Tú, dạy Mạng máy tính, phù hợp để hướng dẫn đồ án về mạng."
+    },
+    {
+      "id": 181,
+      "category": "Courses Taught",
+      "question": "Môn Tiếng Anh chuyên ngành CNPM được dạy bởi ai?",
+      "answer": "Môn Tiếng Anh chuyên ngành CNPM được dạy bởi TS Lê Thị Trang Linh."
+    },
+    {
+      "id": 182,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Tiếng Anh chuyên ngành an ninh mạng?",
+      "answer": "Môn Tiếng Anh chuyên ngành an ninh mạng được dạy bởi TS Lê Thị Trang Linh."
+    },
+    {
+      "id": 183,
+      "category": "Courses Taught",
+      "question": "Môn Tiếng Anh chuyên ngành TMĐT được dạy bởi ai?",
+      "answer": "Môn Tiếng Anh chuyên ngành TMĐT được dạy bởi TS Nguyễn Quỳnh Anh."
+    },
+    {
+      "id": 184,
+      "category": "Courses Taught",
+      "question": "Môn Lập trình hệ thống được giảng dạy bởi ai?",
+      "answer": "Môn Lập trình hệ thống được dạy bởi TS Trần Trung."
+    },
+    {
+      "id": 185,
+      "category": "Courses Taught",
+      "question": "Môn Lập trình web nâng cao được dạy bởi ai?",
+      "answer": "Môn Lập trình web nâng cao được dạy bởi TS Trần Trung."
+    },
+    {
+      "id": 186,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Kiểm thử tại khoa CNTT EPU?",
+      "answer": "TS Lê Thị Trang Linh là giảng viên duy nhất nghiên cứu về Kiểm thử."
+    },
+    {
+      "id": 187,
+      "category": "Research Fields",
+      "question": "Có giảng viên nào nghiên cứu về Tin Sinh học ngoài PGS.TS Nguyễn Hà Nam không?",
+      "answer": "Không, PGS.TS Nguyễn Hà Nam là giảng viên duy nhất nghiên cứu về Tin Sinh học."
+    },
+    {
+      "id": 188,
+      "category": "Faculty Roles",
+      "question": "Có bao nhiêu giảng viên có học vị Thạc sĩ trong khoa CNTT?",
+      "answer": "Khoa CNTT EPU có 7 giảng viên có học vị Thạc sĩ."
+    },
+    {
+      "id": 189,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ sinh viên về phát triển phần mềm web?",
+      "answer": "ThS Phương Văn Cảnh, dạy Phát triển phần mềm trên web và các đồ án web, là người phù hợp để hỗ trợ về phát triển phần mềm web."
+    },
+    {
+      "id": 190,
+      "category": "Faculty Expertise",
+      "question": "Ai có thể hướng dẫn sinh viên về hệ thống thông tin tích hợp?",
+      "answer": "TS Ngô Ngọc Thành, dạy Thực tập hệ thống thông tin tích hợp, có thể hướng dẫn về lĩnh vực này."
+    },
+    {
+      "id": 191,
+      "category": "Courses Taught",
+      "question": "Môn Quản trị mạng được giảng dạy bởi ai?",
+      "answer": "Môn Quản trị mạng được dạy bởi ThS Hoàng Thanh Tùng."
+    },
+    {
+      "id": 192,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Thiết bị mạng tại EPU?",
+      "answer": "Môn Thiết bị mạng được dạy bởi ThS Hoàng Thanh Tùng."
+    },
+    {
+      "id": 193,
+      "category": "Courses Taught",
+      "question": "Môn Hệ điều hành mạng được giảng dạy bởi ai?",
+      "answer": "Môn Hệ điều hành mạng được dạy bởi ThS Phạm Quang Huy."
+    },
+    {
+      "id": 194,
+      "category": "Courses Taught",
+      "question": "Môn Nguyên lý hệ điều hành được dạy bởi ai?",
+      "answer": "Môn Nguyên lý hệ điều hành được dạy bởi TS Nguyễn Thị Ngọc Tú."
+    },
+    {
+      "id": 195,
+      "category": "Courses Taught",
+      "question": "Ai dạy môn Đồ án lập trình .Net?",
+      "answer": "Môn Đồ án lập trình .Net được dạy bởi ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 196,
+      "category": "Courses Taught",
+      "question": "Môn Đồ án lập trình Java được giảng dạy bởi ai?",
+      "answer": "Môn Đồ án lập trình Java được dạy bởi ThS Phương Văn Cảnh và TS Nguyễn Văn Đoàn."
+    },
+    {
+      "id": 197,
+      "category": "Faculty Expertise",
+      "question": "Giảng viên nào có thể hỗ trợ sinh viên về điện toán đám mây?",
+      "answer": "ThS Phạm Quang Huy, TS Trần Trung, và TS Lê Cường, dạy Công nghệ điện toán đám mây, có thể hỗ trợ về lĩnh vực này."
+    },
+    {
+      "id": 198,
+      "category": "Faculty Expertise",
+      "question": "Ai phù hợp để hướng dẫn nghiên cứu về khai phá dữ liệu?",
+      "answer": "TS Trần Trung, TS Nguyễn Thị Ngọc Tú, ThS Đinh Thu Khánh, và TS Đào Nam Anh, với nghiên cứu và giảng dạy về Khai phá dữ liệu, là những người phù hợp."
+    },
+    {
+      "id": 199,
+      "category": "Research Fields",
+      "question": "Ai nghiên cứu về Các mạng không dây di động?",
+      "answer": "TS Vũ Hoàng Long nghiên cứu về Các mạng không dây di động."
+    },
+    {
+      "id": 200,
+      "category": "Courses Taught",
+      "question": "Môn An toàn cơ sở dữ liệu và ứng dụng web được dạy bởi ai?",
+      "answer": "Môn An toàn cơ sở dữ liệu và ứng dụng web được dạy bởi TS Lê Cường."
+    }
+  ],
+  "note": "Đây là 100 câu hỏi đáp về giảng viên khoa CNTT tại EPU, tập trung vào vai trò, lĩnh vực nghiên cứu, và môn học. Để đạt 500 câu, cần thêm câu hỏi về chi tiết kinh nghiệm giảng viên, dự án nghiên cứu cụ thể, hợp tác doanh nghiệp, và hỗ trợ sinh viên (ví dụ: hướng dẫn đồ án, tư vấn nghề nghiệp). Có thể yêu cầu thêm batch hoặc dùng công cụ sinh tự động với mẫu này."
+}
